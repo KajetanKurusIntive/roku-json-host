@@ -5,7 +5,7 @@
     "Recommended": [
         {
             "longDescription": "Just like a high-speed pursuit, innovation requires precision and agility. Software Mind accelerates projects with cutting-edge technology, turning ideas into high-performance solutions.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/1.webp",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/1.jpeg",
             "releaseDate": "2020-01-15",
             "genres": [
                 "educational"
@@ -57,7 +57,7 @@
         },
         {
             "longDescription": "Where creativity meets technology, Software Mind builds digital ecosystems that thrive in today's connected world. Our team turns visions into seamless, interactive experiences.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/3.webp",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/3.jpeg",
             "releaseDate": "2020-01-17",
             "genres": [
                 "educational"
@@ -83,7 +83,7 @@
         },
         {
             "longDescription": "Engineering solutions in a complex digital landscape is no small feat. Software Mind takes on challenges head-first, delivering reliable and robust software across any environment.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/4.webp",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/4.jpeg",
             "releaseDate": "2020-01-17",
             "genres": [
                 "educational"
@@ -126,7 +126,7 @@
             "title": "Roku Tips & Tricks",
             "releaseDate": "2020-03-15T02:01:00+02:00",
             "shortDescription": "Videos highlighting Roku products and features",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/5.webp",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/5.jpeg",
             "genres": [
                 "educational"
             ],
@@ -307,7 +307,7 @@
             "title": "SceneGraph Developers: Build a Channel",
             "releaseDate": "2020-03-15T02:01:00+02:00",
             "shortDescription": "The \"SceneGraph Developers: Build a Channel\" course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/6.webp",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/6.jpeg",
             "genres": [
                 "educational"
             ],
@@ -501,7 +501,7 @@
                                 "duration": 381,
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/7.webp",
+                            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/7.jpeg",
                             "shortDescription": "Debug Roku channels using the debug console",
                             "releaseDate": "2020-05-13",
                             "longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
@@ -714,7 +714,7 @@
     "Movies": [
         {
             "longDescription": "Security and precision are at the forefront of every project. Software Mind engineers work tirelessly to protect data and ensure that our systems are as secure as a high-stakes vault.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/5.webp",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/5.jpeg",
             "releaseDate": "2020-01-20",
             "genres": [
                 "educational"
@@ -766,7 +766,7 @@
         },
         {
             "longDescription": "At the heart of every great application lies powerful, scalable code. Software Mind engineers craft solutions as resilient as the city's skyline, ready to withstand any storm.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/7.webp",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/7.jpeg",
             "releaseDate": "2020-01-20",
             "genres": [
                 "educational"
