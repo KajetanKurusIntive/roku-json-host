@@ -4,7 +4,7 @@
     "lastUpdated": "2020-03-15T02:01:00+02:00",
     "Recommended": [
         {
-            "longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+            "longDescription": "Just like a high-speed pursuit, innovation requires precision and agility. Software Mind accelerates projects with cutting-edge technology, turning ideas into high-performance solutions.",
             "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/1.webp",
             "releaseDate": "2020-01-15",
             "genres": [
@@ -30,8 +30,8 @@
             }
         },
         {
-            "longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/2.webp",
+            "longDescription": "From startups to global enterprises, Software Mind engineers navigate complex challenges with precision, ensuring every project is mission-ready from concept to launch.",
+            "title": "Mission Control",
             "releaseDate": "2020-01-15",
             "genres": [
                 "educational"
@@ -56,7 +56,7 @@
             }
         },
         {
-            "longDescription": "Steps for enabling Developer Mode on a Roku device",
+            "longDescription": "Where creativity meets technology, Software Mind builds digital ecosystems that thrive in today's connected world. Our team turns visions into seamless, interactive experiences.",
             "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/3.webp",
             "releaseDate": "2020-01-17",
             "genres": [
@@ -82,7 +82,7 @@
             }
         },
         {
-            "longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
+            "longDescription": "Engineering solutions in a complex digital landscape is no small feat. Software Mind takes on challenges head-first, delivering reliable and robust software across any environment.",
             "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/4.webp",
             "releaseDate": "2020-01-17",
             "genres": [
@@ -713,7 +713,8 @@
     ],
     "Movies": [
         {
-            "longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
+            "longDescription": "Security and precision are at the forefront of every project. Software Mind engineers work tirelessly to protect data and ensure that our systems are as secure as a high-stakes vault.",
+            "content": {
             "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/5.webp",
             "releaseDate": "2020-01-20",
             "genres": [
@@ -723,8 +724,8 @@
                 "demo"
             ],
             "id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
-            "shortDescription": "Securing the Future",
-            "title": "Security and precision are at the forefront of every project. Software Mind engineers work tirelessly to protect data and ensure that our systems are as secure as a high-stakes vault.",
+            "shortDescription": "Security and precision are at the forefront of every project. Software Mind engineers work tirelessly to protect data and ensure that our systems are as secure as a high-stakes vault.",
+            "title": "Securing the Future",
             "content": {
                 "duration": 713,
                 "videos": [
@@ -739,8 +740,8 @@
             }
         },
         {
-            "longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/6.webp",
+            "longDescription": "Security and precision are at the forefront of every project. Software Mind engineers work tirelessly to protect data and ensure that our systems are as secure as a high-stakes vault.",
+            "title": "The Final Stand",
             "releaseDate": "2020-01-20",
             "genres": [
                 "educational"
@@ -765,7 +766,7 @@
             }
         },
         {
-            "longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
+            "longDescription": "At the heart of every great application lies powerful, scalable code. Software Mind engineers craft solutions as resilient as the city's skyline, ready to withstand any storm.",
             "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/7.webp",
             "releaseDate": "2020-01-20",
             "genres": [
