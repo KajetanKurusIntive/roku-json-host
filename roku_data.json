@@ -714,7 +714,6 @@
     "Movies": [
         {
             "longDescription": "Security and precision are at the forefront of every project. Software Mind engineers work tirelessly to protect data and ensure that our systems are as secure as a high-stakes vault.",
-            "content": {
             "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/5.webp",
             "releaseDate": "2020-01-20",
             "genres": [
