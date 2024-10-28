@@ -5,7 +5,7 @@
     "shortFormVideos": [
         {
             "longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-            "thumbnail": "https://image.roku.com/ZHZscHItMTc2/streaming-overview.jpg",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/1.webp",
             "releaseDate": "2020-01-15",
             "genres": [
                 "educational"
@@ -31,7 +31,7 @@
         },
         {
             "longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
-            "thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/2.webp",
             "releaseDate": "2020-01-15",
             "genres": [
                 "educational"
@@ -57,7 +57,7 @@
         },
         {
             "longDescription": "Steps for enabling Developer Mode on a Roku device",
-            "thumbnail": "https://image.roku.com/ZHZscHItMTc2/enable-developer-mode-v1b.png",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/3.webp",
             "releaseDate": "2020-01-17",
             "genres": [
                 "educational"
@@ -83,7 +83,7 @@
         },
         {
             "longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-            "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/images/VoiceFeatures.jpg",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/4.webp",
             "releaseDate": "2020-01-17",
             "genres": [
                 "educational"
@@ -118,174 +118,6 @@
                     }
                 ]
             }
-        },
-        {
-            "longDescription": "Experience the majestic wilderness and explore breathtaking views.",
-            "thumbnail": "https://example.com/thumbnails/wilderness.jpg",
-            "releaseDate": "2024-10-01",
-            "genres": [
-                "nature",
-                "travel"
-            ],
-            "tags": [
-                "adventure",
-                "scenic"
-            ],
-            "id": "shortform-wilderness-adventure",
-            "shortDescription": "Explore breathtaking views in the wilderness.",
-            "title": "Wilderness Adventure",
-            "content": {
-                "duration": 300,
-                "videos": [
-                    {
-                        "videoType": "MP4",
-                        "url": "https://example.com/videos/wilderness-adventure.mp4",
-                        "quality": "FHD"
-                    }
-                ],
-                "language": "en-us",
-                "dateAdded": "2024-10-01T02:39:11Z"
-            }
-        },
-        {
-            "longDescription": "Learn delicious, easy recipes from around the world in just minutes.",
-            "thumbnail": "https://example.com/thumbnails/cooking.jpg",
-            "releaseDate": "2024-10-05",
-            "genres": [
-                "cooking",
-                "lifestyle"
-            ],
-            "tags": [
-                "recipes",
-                "food"
-            ],
-            "id": "shortform-quick-recipes",
-            "shortDescription": "Quick and delicious recipes from around the world.",
-            "title": "Quick Recipes",
-            "content": {
-                "duration": 180,
-                "videos": [
-                    {
-                        "videoType": "MP4",
-                        "url": "https://example.com/videos/quick-recipes.mp4",
-                        "quality": "HD"
-                    }
-                ],
-                "language": "en-us",
-                "dateAdded": "2024-10-05T10:00:00Z"
-            }
-        },
-        {
-            "longDescription": "Watch epic space missions as they explore the far reaches of the galaxy.",
-            "thumbnail": "https://example.com/thumbnails/space-exploration.jpg",
-            "releaseDate": "2024-10-10",
-            "genres": [
-                "sci-fi",
-                "documentary"
-            ],
-            "tags": [
-                "space",
-                "exploration"
-            ],
-            "id": "shortform-space-exploration",
-            "shortDescription": "Explore the galaxy with epic space missions.",
-            "title": "Space Exploration",
-            "content": {
-                "duration": 500,
-                "videos": [
-                    {
-                        "videoType": "MP4",
-                        "url": "https://example.com/videos/space-exploration.mp4",
-                        "quality": "4K"
-                    }
-                ],
-                "language": "en-us",
-                "dateAdded": "2024-10-10T12:00:00Z"
-            }
-        },
-        {
-            "longDescription": "Experience the calming sound and sight of ocean waves hitting the shore, providing a serene escape.",
-            "thumbnail": "https://example.com/thumbnails/ocean-waves.jpg",
-            "releaseDate": "2024-10-20",
-            "genres": [
-                "nature",
-                "relaxation"
-            ],
-            "tags": [
-                "calm",
-                "ocean"
-            ],
-            "id": "shortform-calm-ocean-waves",
-            "shortDescription": "A calming view of ocean waves.",
-            "title": "Calm Ocean Waves",
-            "content": {
-                "duration": 240,
-                "videos": [
-                    {
-                        "videoType": "MP4",
-                        "url": "https://archive.org/download/calming-ocean-waves/ocean-waves.mp4",
-                        "quality": "HD"
-                    }
-                ],
-                "language": "en-us",
-                "dateAdded": "2024-10-20T08:30:00Z"
-            }
-        },
-        {
-            "longDescription": "A mesmerizing timelapse capturing the vibrant city lights at night, showcasing the hustle and bustle.",
-            "thumbnail": "https://example.com/thumbnails/city-lights.jpg",
-            "releaseDate": "2024-10-21",
-            "genres": [
-                "urban",
-                "timelapse"
-            ],
-            "tags": [
-                "city",
-                "night"
-            ],
-            "id": "shortform-city-lights-timelapse",
-            "shortDescription": "Timelapse of vibrant city lights at night.",
-            "title": "City Lights Timelapse",
-            "content": {
-                "duration": 180,
-                "videos": [
-                    {
-                        "videoType": "MP4",
-                        "url": "https://archive.org/download/city-timelapse/city-lights.mp4",
-                        "quality": "FHD"
-                    }
-                ],
-                "language": "en-us",
-                "dateAdded": "2024-10-21T09:45:00Z"
-            }
-        },
-        {
-            "longDescription": "A peaceful journey through a forest in autumn, with leaves changing colors and gentle breezes.",
-            "thumbnail": "https://example.com/thumbnails/forest-autumn.jpg",
-            "releaseDate": "2024-10-22",
-            "genres": [
-                "nature",
-                "scenic"
-            ],
-            "tags": [
-                "forest",
-                "autumn"
-            ],
-            "id": "shortform-forest-autumn",
-            "shortDescription": "Journey through an autumn forest.",
-            "title": "Forest in Autumn",
-            "content": {
-                "duration": 300,
-                "videos": [
-                    {
-                        "videoType": "MP4",
-                        "url": "https://archive.org/download/forest-in-autumn/forest-autumn.mp4",
-                        "quality": "4K"
-                    }
-                ],
-                "language": "en-us",
-                "dateAdded": "2024-10-22T10:00:00Z"
-            }
         }
     ],
     "series": [
@@ -294,7 +126,7 @@
             "title": "Roku Tips & Tricks",
             "releaseDate": "2020-03-15T02:01:00+02:00",
             "shortDescription": "Videos highlighting Roku products and features",
-            "thumbnail": "https://image.roku.com/ZHZscHItMTc2/tips-tricks.jpg",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/5.webp",
             "genres": [
                 "educational"
             ],
@@ -475,7 +307,7 @@
             "title": "SceneGraph Developers: Build a Channel",
             "releaseDate": "2020-03-15T02:01:00+02:00",
             "shortDescription": "The \"SceneGraph Developers: Build a Channel\" course teaches novice Roku developers how to develop a channel from the ground up with the Roku SDK. This course walks developers through each step in building a basic, high-performance Roku channel that passes certification. This course is ideal for developers that are new to the Roku platform and want a simple, streamlined path for quickly understanding Roku development.",
-            "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-build-channel-series.jpg",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/6.webp",
             "genres": [
                 "educational"
             ],
@@ -669,7 +501,7 @@
                                 "duration": 381,
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugging.png",
+                            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/7.webp",
                             "shortDescription": "Debug Roku channels using the debug console",
                             "releaseDate": "2020-05-13",
                             "longDescription": "Debug Roku channels using the debug console. This lesson teaches you how to access the debug console via Telnet and the Roku Eclipse Plug-in and use the different debug ports. It explains how to view the crash logs, stack traces, and channel performance metrics in the console, and how to use the interactive debugger to type commands for checking and updating variable values, calling functions, and stepping through the application.",
