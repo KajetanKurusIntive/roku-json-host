@@ -20,8 +20,8 @@
                 "duration": 100,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
+                        "videoType": "HLS",
+                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -47,8 +47,8 @@
                 "duration": 248,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
+                        "videoType": "HLS",
+                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -73,8 +73,8 @@
                 "duration": 120,
                 "videos": [
                     {
-                        "videoType": "DASH",
-                        "url": "https://ovp-selector.sr.roku.com/v1/12cdcf33-58e7-46a6-bbbf-cbb5c5fec500?format=dash",
+                        "videoType": "HLS",
+                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -99,8 +99,8 @@
                 "duration": 98,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "https://image.roku.com/ZHZscHItMTc2/roku-voice-demo-v4.mp4",
+                        "videoType": "HLS",
+                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -730,8 +730,8 @@
                 "duration": 713,
                 "videos": [
                     {
-                        "videoType": "MP4",
-                        "url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+                        "videoType": "HLS",
+                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -758,7 +758,7 @@
                 "videos": [
                     {
                         "videoType": "HLS",
-                        "url": "https://ovp-selector.sr.roku.com/v1/f73763a9-8105-4b78-90e0-381ea0d0128b?format=hls",
+                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
                         "quality": "HD"
                     }
                 ],
@@ -784,7 +784,7 @@
                 "videos": [
                     {
                         "videoType": "HLS",
-                        "url": "https://ovp-selector.sr.roku.com/v1/0c18bf4e-b295-437c-badb-3a171a1b52aa?format=hls",
+                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
                         "quality": "HD"
                     }
                 ],
