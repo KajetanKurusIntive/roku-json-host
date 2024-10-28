@@ -31,6 +31,7 @@
         },
         {
             "longDescription": "From startups to global enterprises, Software Mind engineers navigate complex challenges with precision, ensuring every project is mission-ready from concept to launch.",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/2.jpeg",
             "title": "Mission Control",
             "releaseDate": "2020-01-15",
             "genres": [
@@ -749,6 +750,7 @@
                 "demo"
             ],
             "id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
+            "thumbnail": "https://github.com/KajetanKurusIntive/roku-json-host/raw/refs/heads/main/6.jpeg",
             "shortDescription": "Security and precision are at the forefront of every project. Software Mind engineers work tirelessly to protect data and ensure that our systems are as secure as a high-stakes vault.",
             "title": "The Final Stand",
             "content": {
