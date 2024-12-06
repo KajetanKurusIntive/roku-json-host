@@ -19,11 +19,11 @@
             "content": {
                 "duration": 100,
                 "videos": [
-                    {
-                        "videoType": "HLS",
-                        "url": "https://cdn.flowplayer.com/a30bd6bc-f98b-47bc-abf5-97633d4faea0/hls/de3f6ca7-2db3-4689-8160-0f574a5996ad/playlist.m3u8",
-                        "quality": "HD"
-                    }
+                  {
+                    "videoType": "MP4",
+                    "url": "https://media.montage.tv/features/5d62302307f317a0/videos/1080p.mp4",
+                    "quality": "1080p"
+                  }
                 ],
                 "language": "en-us",
                 "dateAdded": "2020-01-15T02:39:11Z"
