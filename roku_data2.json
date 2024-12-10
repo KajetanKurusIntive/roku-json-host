@@ -1,17 +1,17 @@
 {
   "providerName": "Roku Developers",
   "language": "en-US",
-  "lastUpdated": "2020-03-15T02:01:00+02:00",
-  "Recommended": [
+  "lastUpdated": "2024-12-10T00:00:00+00:00",
+  "Movies": [
     {
+      "id": "feature-5d62302307f317a0",
       "title": "Newcomer",
       "longDescription": "When Alex's rookie mistake cost the lives of his entire special forces team he becomes the primary suspect of an international manhunt. On the run Alex must piece together what really happened and track down the truth by re-creating the events of the ill-fated mission...",
-      "shortDescription": "When Alex's rookie mistake leads to tragedy, he becomes the target of an international manhunt.",
-      "thumbnail": "",
-      "releaseDate": "",
+      "shortDescription": "When a rookie operative's mistake costs the lives of his entire team he's forced on the run and must uncover the truth.",
+      "thumbnail": "https://media.montage.tv/features/5d62302307f317a0/poster.png",
+      "releaseDate": "2022-09-05",
       "genres": ["Thriller"],
       "tags": [],
-      "id": "newcomer-unique-id",
       "content": {
         "duration": 5970,
         "videos": [
@@ -32,18 +32,18 @@
           }
         ],
         "language": "en-US",
-        "dateAdded": ""
+        "dateAdded": "2022-09-05"
       }
     },
     {
+      "id": "feature-81960d917a745ff7",
       "title": "A World Of Difference",
       "longDescription": "College kids and panhandlers. Two different worlds. One location. One crazy day.",
-      "shortDescription": "College kids and panhandlers collide in one location on a wild day.",
-      "thumbnail": "",
-      "releaseDate": "",
+      "shortDescription": "College kids and panhandlers clash in one wild, life-changing day.",
+      "thumbnail": "https://media.montage.tv/features/81960d917a745ff7/poster.png",
+      "releaseDate": "2023-08-14",
       "genres": ["Short", "Dark Comedy"],
       "tags": [],
-      "id": "a-world-of-difference-unique-id",
       "content": {
         "duration": 581,
         "videos": [
@@ -64,52 +64,18 @@
           }
         ],
         "language": "en-US",
-        "dateAdded": ""
+        "dateAdded": "2023-08-13"
       }
     },
     {
-      "title": "PLUMP!",
-      "longDescription": "After struggling to find her place in Hollywood, a plus-size black actress decides to challenge the industry's superficial beauty standards by carving her own lane.",
-      "shortDescription": "A plus-size actress challenges beauty standards in Hollywood.",
-      "thumbnail": "",
-      "releaseDate": "",
-      "genres": ["Comedy"],
-      "tags": [],
-      "id": "plump-unique-id",
-      "content": {
-        "duration": 200,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://media.montage.tv/features/9f37ee05f1aeaa49/videos/1080p.mp4",
-            "quality": "1080p"
-          },
-          {
-            "videoType": "MP4",
-            "url": "https://media.montage.tv/features/9f37ee05f1aeaa49/videos/720p.mp4",
-            "quality": "720p"
-          },
-          {
-            "videoType": "MP4",
-            "url": "https://media.montage.tv/features/9f37ee05f1aeaa49/videos/480p.mp4",
-            "quality": "480p"
-          }
-        ],
-        "language": "en-US",
-        "dateAdded": ""
-      }
-    }
-  ],
-  "Movies": [
-    {
+      "id": "feature-c557b7f822e69dba",
       "title": "EDDIE",
       "longDescription": "Eddie loves his wife but she has been tragically murdered. Who is the culprit?",
-      "shortDescription": "Eddie seeks justice for his murdered wife in this thrilling mystery.",
-      "thumbnail": "",
-      "releaseDate": "",
+      "shortDescription": "Eddie returns home to find his wife murdered and must uncover the truth.",
+      "thumbnail": "https://media.montage.tv/features/c557b7f822e69dba/poster.png",
+      "releaseDate": "2022-11-16",
       "genres": ["Indie Film", "Short", "Noir", "Thriller", "Crime Film", "Mystery", "Drama"],
       "tags": [],
-      "id": "eddie-unique-id",
       "content": {
         "duration": 163,
         "videos": [
@@ -130,7 +96,7 @@
           }
         ],
         "language": "en-US",
-        "dateAdded": ""
+        "dateAdded": "2022-11-15"
       }
     }
   ]
