@@ -53,7 +53,7 @@ app.get('/api/:page', (req, res) => {
     favorite_count: pagesMeta.favorite_count,
     id: requestedPage,
     iso_639_1: pagesMeta.iso_639_1,
-    item_count: 1,
+    item_count: pageObj.movieIds.length,
     name: pagesMeta.name,
     poster_path: pagesMeta.poster_path,
     total_results: pagesMeta.total_results,
@@ -62,7 +62,7 @@ app.get('/api/:page', (req, res) => {
     page: 1,
 
     // Dynamically computed total_pages
-    total_pages: totalPages,
+    total_pages: 1,
 
     // The movies for this page
     items: filteredMovies
