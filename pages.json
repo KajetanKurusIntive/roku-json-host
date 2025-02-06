@@ -1,0 +1,32 @@
+{
+    "pages": {
+      "created_by": "Travis Bell",
+      "description": "The idea behind this list is to collect the live action comic book movies from within the Marvel franchise.",
+      "favorite_count": 0,
+      "id": 1,
+      "iso_639_1": "en",
+      "item_count": 69,
+      "name": "The Marvel Universe",
+      "poster_path": "/coJVIUEOToAEGViuhclM7pXC75R.jpg",
+      "total_results": 69,
+  
+      "page_list": [
+        {
+          "page": 1,
+          "movieIds": [986056, 822119, 533535, 609681, 447365]
+        },
+        {
+          "page": 2,
+          "movieIds": [640146, 505642, 616037, 453395, 634649]
+        },
+        {
+          "page": 3,
+          "movieIds": [524434, 566525, 497698, 429617, 299534]
+        },
+        {
+          "page": 4,
+          "movieIds": [299537, 363088, 299536, 284054, 284053]
+        }
+      ]
+    }
+  }
