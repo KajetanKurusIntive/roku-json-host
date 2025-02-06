@@ -72,6 +72,32 @@ app.get('/api/:page', (req, res) => {
   res.json(response);
 });
 
+app.get('/search', (req, res) => {
+    const searchTerm = req.query.query || '';  // e.g. /search?query=Marvel
+  
+    // Convert the searchTerm to lowercase for case-insensitive matching
+    const lowerSearch = searchTerm.toLowerCase();
+  
+    // Filter the movies by checking if the searchTerm appears
+    // in title, original_title, or overview (case-insensitive).
+    const results = moviesData.items.filter(movie => {
+      const inTitle = (movie.title || '').toLowerCase().includes(lowerSearch);
+      const inOriginal = (movie.original_title || '').toLowerCase().includes(lowerSearch);
+      const inOverview = (movie.overview || '').toLowerCase().includes(lowerSearch);
+      return inTitle || inOriginal || inOverview;
+    });
+  
+    // Build the response in the shape you requested
+    const response = {
+      page: 1,               // Hard-coded to 1 (matches your example)
+      results: results,      // The array of matching movies
+      total_pages: 500,      // Hard-coded to 500 (matches your example)
+      total_results: 10000   // Hard-coded to 10000 (matches your example)
+    };
+  
+    res.json(response);
+  });
+
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);
 });
