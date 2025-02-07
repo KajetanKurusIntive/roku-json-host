@@ -98,6 +98,23 @@ app.get('/search', (req, res) => {
     res.json(response);
   });
 
+  // GET /movie/:id
+app.get('/movie/:id', (req, res) => {
+    // Convert the :id param to a number
+    const movieId = parseInt(req.params.id, 10);
+  
+    // Find the matching movie in your flat list
+    const movie = moviesData.items.find(m => m.id === movieId);
+  
+    // If not found, return 404
+    if (!movie) {
+      return res.status(404).json({ error: `Movie with ID ${movieId} not found` });
+    }
+  
+    // Otherwise, return the movie's data
+    return res.json(movie);
+  });
+
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);
 });
